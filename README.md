@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, I'm Saugat Thapa Chhetri</h1>
-<h3 align="center">A passionate ML/AI/DataScience Enthusiast from Nepali</h3>
+<h3 align="center">A passionate ML/AI/DataScience Enthusiast from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404saugat404&label=Profile%20views&color=0e75b6&style=flat" alt="404saugat404" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Owner avatar ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
+- 🔭 I’m currently working on [ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
-- 🌱 I’m currently learning **AI and Machine Learning frameworks at Fusemachine AI fellowship**
+- 🌱 I’m currently learning **AI and Machine Learning at Fusemachine AI fellowship**
 
 - 👨‍💻 All of my projects are available at [https://404saugat404.github.io/advance_portfolio/](https://404saugat404.github.io/advance_portfolio/)
 
 - 📫 How to reach me **saugat556513@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Funny, HAHAHHAHAHAHAH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
