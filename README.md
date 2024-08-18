@@ -50,8 +50,8 @@
   <a href="https://instagram.com/saugat_thapa_cheetri" target="blank">
     <img src="https://img.shields.io/badge/Instagram-Saugat_Thapa_Cheetri-blue?style=flat&logo=instagram" alt="saugat_thapa_cheetri" />
   </a>
-  <a href="https://www.leetcode.com/saugat_thapa" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa-blue?style=flat&logo=leetcode" alt="saugat_thapa" />
+  <a href="https://leetcode.com/u/404saugat404/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa-blue?style=flat&logo=leetcode" alt="saugat_thapa_chhetri" />
   </a>
 </p>
 
