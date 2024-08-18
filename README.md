@@ -11,23 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/404saugat404" target="blank">
-    <img src="https://img.shields.io/twitter/follow/404saugat404?logo=twitter&style=for-the-badge&color=1DA1F2" alt="twitter" />
-  </a>
-  <a href="https://linkedin.com/in/saugat-thapa-chhetri" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-404saugat404-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
-  </a>
-  <a href="https://fb.com/saugat-thapa-chhetri" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-404saugat404-blue?style=for-the-badge&logo=facebook" alt="facebook" />
-  </a>
-  <a href="https://instagram.com/saugat_thapa_cheetri" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-404saugat404-blue?style=for-the-badge&logo=instagram" alt="instagram" />
-  </a>
-  <a href="https://leetcode.com/u/404saugat404/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-404saugat404-blue?style=for-the-badge&logo=leetcode" alt="leetcode" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on [ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
@@ -51,7 +34,7 @@
     <img src="https://img.shields.io/badge/Instagram-Saugat_Thapa_Cheetri-blue?style=flat&logo=instagram" alt="saugat_thapa_cheetri" />
   </a>
   <a href="https://leetcode.com/u/404saugat404/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa-blue?style=flat&logo=leetcode" alt="saugat_thapa" />
+    <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa-blue?style=flat&logo=leetcode" alt="saugat_thapa_chhetri" />
   </a>
 </p>
 
