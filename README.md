@@ -24,7 +24,7 @@
   <a href="https://instagram.com/saugat_thapa_cheetri" target="blank">
     <img src="https://img.shields.io/badge/Instagram-404saugat404-blue?style=for-the-badge&logo=instagram" alt="instagram" />
   </a>
-  <a href="https://www.leetcode.com/saugat_thapa" target="blank">
+  <a href="https://leetcode.com/u/404saugat404/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-404saugat404-blue?style=for-the-badge&logo=leetcode" alt="leetcode" />
   </a>
 </p>
