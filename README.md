@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/saugat-thapa-chhetri" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Saugat_Thapa_Chhetri-blue?style=flat&logo=linkedin" alt="saugat-thapa-chhetri" />
   </a>
-  <a href="https://fb.com/saugat-thapa-chhetri" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100009199940499" target="blank">
     <img src="https://img.shields.io/badge/Facebook-Saugat_Thapa_Chhetri-blue?style=flat&logo=facebook" alt="saugat-thapa-chhetri" />
   </a>
   <a href="https://instagram.com/saugat_thapa_cheetri" target="blank">
