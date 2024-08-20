@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center" style="color: #4CAF50;">Hello everyone, I'm <span style="color: #FF5722;">Saugat Thapa Chhetri</span></h1>
 <h3 align="center" style="color: #FF9800;">A passionate ML/AI/DataScience Enthusiast from Nepal</h3>
 
