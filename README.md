@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/fd24666d481d141131b13ead828b97d337f8cfbfa0034c93a95d9c8375209c83/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36382f61652f62662f36386165626634633731626431643630393066383732333732373262303165352e676966)](https://rishavchanda.io)
 
 <h1 align="center" style="color: #4CAF50;">Hello everyone, I'm <span style="color: #FF5722;">Saugat Thapa Chhetri</span></h1>
 <h3 align="center" style="color: #FF9800;">A passionate ML/AI/DataScience Enthusiast from Nepal</h3>
