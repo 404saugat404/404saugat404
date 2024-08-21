@@ -16,11 +16,11 @@
   </a>
 </p>
 
-- 🔭 [I’m currently working on ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
+- 🔭 [I’m currently working on **ASR-with-Speech-Sentiment-Analysis-Text-Summarizer**](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
 - 🌱 I’m currently learning **AI and Machine Learning at Fusemachine AI fellowship**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://404saugat404.github.io/advance_portfolio/)
+- 👨‍💻 [Click **HERE** to view My Portfolio](https://404saugat404.github.io/advance_portfolio/)
 
 - 📫 How to reach me: **saugat556513@gmail.com**
 
