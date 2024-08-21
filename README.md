@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
+- 🔭 [I’m currently working on ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
 - 🌱 I’m currently learning **AI and Machine Learning at Fusemachine AI fellowship**
 
