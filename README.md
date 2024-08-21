@@ -13,7 +13,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <span style="color: #3b82f6;">This text is dark blue.</span>
+</p>
 
 - 🔭 I’m currently working on [ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
