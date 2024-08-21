@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue&no-frame=true" alt="404saugat404" />
+    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&no-frame=true&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" />
   </a>
 </p>
 
