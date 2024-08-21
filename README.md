@@ -73,13 +73,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=radical" alt="404saugat404" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=blueberry&border_radius=10" alt="404saugat404" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=radical" alt="404saugat404" />
+  <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=blueberry&border_radius=10" alt="404saugat404" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=radical" alt="404saugat404" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=blueberry&border_radius=10" alt="404saugat404" />
 </p>
+
