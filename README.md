@@ -8,9 +8,6 @@
 </p>
 
 
- 	$${\color{blue}Blue}$$
-
-
 
 
 <p align="center">
@@ -18,8 +15,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" />
   </a>
 </p>
-
-<color></color>
 
 - 🔭 I’m currently working on [ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
