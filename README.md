@@ -7,15 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=404saugat404&label=Profile%20views&color=0e75b6&style=flat" alt="404saugat404" />
 </p>
 
+
+ 	$${\color{blue}Blue}$$
+
+
+
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" />
   </a>
 </p>
 
-<p align="center">
-  <span style="color: #3b82f6;">This text is dark blue.</span>
-</p>
+<color></color>
 
 - 🔭 I’m currently working on [ASR-with-Speech-Sentiment-Analysis-Text-Summarizer](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
 
