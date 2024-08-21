@@ -73,14 +73,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=20&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=20&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=20&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" />
+  <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=20&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=20&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=20&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" />
 </p>
 
