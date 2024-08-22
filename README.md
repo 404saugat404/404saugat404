@@ -42,6 +42,28 @@
   </a>
 </p>
 
+
+
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h3 align="center" style="color: #FF5722;">Languages and Tools I have learned during my education:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/bootstrap5.jpeg?itok=wkBtyvSM" alt="bootstrap" width="60" height="60"/> </a>
@@ -72,20 +94,5 @@
   </p>
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-  </tr>
-</table>
 
 
