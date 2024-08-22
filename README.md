@@ -44,7 +44,6 @@
 
 
 
-
 <table align="center">
   <tr>
     <td>
@@ -56,10 +55,11 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="350" height="175" />
     </td>
   </tr>
 </table>
+
 
 
 
