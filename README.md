@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=5&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" />
+    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" />
   </a>
 </p>
 
@@ -73,14 +73,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
 </p>
+
 
