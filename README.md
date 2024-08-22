@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue&title=Size-Increase&scale=1.5" alt="404saugat404" />
+    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" width="1200" height="250" />
   </a>
 </p>
 
