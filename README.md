@@ -1,19 +1,7 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-<table align="center" style="background-color: #0e1c36; border-radius: 30px; padding: 20px;">
-  <tr>
-    <td align="center">
-      <h1 align="center" style="color: #4CAF50;">Hello everyone, I'm <span style="color: #FF5722;">Saugat Thapa Chhetri</span></h1>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3 align="center" style="color: #FF9800;">A passionate ML/AI/DataScience Enthusiast from Nepal</h3>
-    </td>
-  </tr>
-</table>
-
-
+<h1 align="center" style="color: #4CAF50;">Hello everyone, I'm <span style="color: #FF5722;">Saugat Thapa Chhetri</span></h1>
+<h3 align="center" style="color: #FF9800;">A passionate ML/AI/DataScience Enthusiast from Nepal</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=404saugat404&label=Profile%20views&color=0e75b6&style=flat" alt="404saugat404" />
@@ -23,10 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=40&margin-h=40&no-frame=false&border-color=darkblue" alt="404saugat404" width="1050" height="180" />
+    <img src="https://github-profile-trophy.vercel.app/?username=404saugat404&row=1&column=6&theme=algolia&margin-w=25&no-frame=false&border-color=darkblue" alt="404saugat404" />
   </a>
 </p>
-
 
 
 - 🔭 [I’m currently working on **ASR-with-Speech-Sentiment-Analysis-Text-Summarizer**](https://github.com/fuseai-fellowship/ASR-with-Speech-Sentiment-Analysis-Text-Summarizer)
