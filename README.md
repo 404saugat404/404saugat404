@@ -26,6 +26,26 @@
 
 - ⚡ Fun fact: **I think I am Funny, HAHAHHAHAHAHAHA**
 
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h3 align="center" style="color: #8BC34A;">You can connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/saugat-thapa-chhetri" target="blank">
@@ -42,21 +62,6 @@
   </a>
 </p>
 
-<table align="center" style="border: none; border-collapse: collapse; width: 100%; background-color: transparent;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="350" height="175" />
-    </td>
-  </tr>
-</table>
 
 
 
