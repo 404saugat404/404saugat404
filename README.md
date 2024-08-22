@@ -1,7 +1,27 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-<h1 align="center" style="color: #4CAF50;">Hello everyone, I'm <span style="color: #FF5722;">Saugat Thapa Chhetri</span></h1>
-<h3 align="center" style="color: #FF9800;">A passionate ML/AI/DataScience Enthusiast from Nepal</h3>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h1 align="center" style="color: #4CAF50;">Hello everyone, I'm <span style="color: #FF5722;">Saugat Thapa Chhetri</span></h1>
+      <h3 align="center" style="color: #FF9800;">A passionate ML/AI/DataScience Enthusiast from Nepal</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=404saugat404&label=Profile%20views&color=0e75b6&style=flat" alt="404saugat404" />
