@@ -44,23 +44,23 @@
 </table>
 
 
-
-
 <h3 align="center" style="color: #8BC34A;">You can connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/saugat-thapa-chhetri" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saugat_Thapa_Chhetri-blue?style=flat&logo=linkedin" alt="saugat-thapa-chhetri" />
+    <img src="https://img.shields.io/badge/LinkedIn-Saugat_Thapa_Chhetri-0E2A50?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=0E2A50" alt="saugat-thapa-chhetri" height="30" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100009199940499" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-Saugat_Thapa_Chhetri-blue?style=flat&logo=facebook" alt="saugat-thapa-chhetri" />
+    <img src="https://img.shields.io/badge/Facebook-Saugat_Thapa_Chhetri-0E2A50?style=flat&logo=facebook&logoColor=1877F2&labelColor=0E2A50" alt="saugat-thapa-chhetri" height="30" />
   </a>
   <a href="https://instagram.com/saugat_thapa_cheetri" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-Saugat_Thapa_Cheetri-blue?style=flat&logo=instagram" alt="saugat_thapa_cheetri" />
+    <img src="https://img.shields.io/badge/Instagram-Saugat_Thapa_Cheetri-0E2A50?style=flat&logo=instagram&logoColor=E4405F&labelColor=0E2A50" alt="saugat_thapa_cheetri" height="30" />
   </a>
   <a href="https://leetcode.com/u/404saugat404/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa_Cheetri-blue?style=flat&logo=leetcode" alt="saugat_thapa_chhetri" />
+    <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa_Cheetri-0E2A50?style=flat&logo=leetcode&logoColor=FFA116&labelColor=0E2A50" alt="saugat_thapa_chhetri" height="30" />
   </a>
 </p>
+
+
 
 
 
