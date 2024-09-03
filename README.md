@@ -27,24 +27,8 @@
 - ⚡ Fun fact: **I think I am Funny, HAHAHHAHAHAHAHA**
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
-    </td>
-  </tr>
-</table>
 
-
-<h3 align="center" style="color: #8BC34A;">You can connect with me:</h3>
+<h3 align="center" style="color: #8BC34A;">We can get connected here👀👀:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/saugat-thapa-chhetri" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Saugat_Thapa_Chhetri-0E2A50?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=0E2A50" alt="saugat-thapa-chhetri" height="30" />
@@ -62,6 +46,27 @@
     <img src="https://img.shields.io/badge/Discord-Saugat_Thapa_Chhetri-0E2A50?style=flat&logo=discord&logoColor=5865F2&labelColor=0E2A50" alt="discord-profile" height="30" />
   </a>
 </p>
+
+
+
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=404saugat404&show_icons=true&locale=en&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=404saugat404&theme=dark&border_radius=30&background=0e1c36&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&border=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=404saugat404&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=30&bg_color=0e1c36&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=3b82f6" alt="404saugat404" width="400" height="200" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 
