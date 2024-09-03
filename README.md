@@ -58,6 +58,9 @@
   <a href="https://leetcode.com/u/404saugat404/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-Saugat_Thapa_Cheetri-0E2A50?style=flat&logo=leetcode&logoColor=FFA116&labelColor=0E2A50" alt="saugat_thapa_chhetri" height="30" />
   </a>
+  <a href="https://discord.com/users/750268414588747847" target="blank">
+    <img src="https://img.shields.io/badge/Discord-Saugat_Thapa_Chhetri-0E2A50?style=flat&logo=discord&logoColor=5865F2&labelColor=0E2A50" alt="discord-profile" height="30" />
+  </a>
 </p>
 
 
