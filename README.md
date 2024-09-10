@@ -54,8 +54,6 @@
 </p>
 
 
-
-
 <table align="center">
   <tr>
     <td>
@@ -72,10 +70,12 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://leetcard.jacoblin.cool/404saugat404?theme=dark&border=3b82f6&radius=30&ext=heatmap&bg=0e1c36&font=ffffff" alt="LeetCode Progress" width="400" height="200" />
+      <img src="https://leetcard.jacoblin.cool/404saugat404?theme=nord&ext=heatmap&bg=0e1c36&text=3b82f6&border=3b82f6&radius=30" alt="LeetCode Progress" width="400" height="200" />
     </td>
   </tr>
 </table>
+
+
 
 
 
