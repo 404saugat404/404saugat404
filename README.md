@@ -85,7 +85,6 @@
 
 
 
-
 <h3 align="center" style="color: #FF5722;">Languages and Tools I have learned during my education:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/bootstrap5.jpeg?itok=wkBtyvSM" alt="bootstrap" width="60" height="60"/> </a>
