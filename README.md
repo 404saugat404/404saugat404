@@ -28,7 +28,6 @@
 
 
 
-
 <h3 align="center" style="color: #8BC34A;">We can get connected here👀👀:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/saugat-thapa-chhetri" target="blank">
